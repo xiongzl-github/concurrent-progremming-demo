@@ -1,5 +1,9 @@
 package top.timebook;
 
+/**
+ * 测试线程死锁 
+ * @author xiongzl
+ */
 public class TheadDeadLockDemo {
 
 	public static final Object t1 = new Object();
